@@ -1,2 +1,2 @@
-# ml_zoomcamp_homehork
+# ml_zoomcamp_homework
 module_1 homework
